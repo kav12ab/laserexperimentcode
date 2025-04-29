@@ -41,7 +41,11 @@ Connect the VL53L1X sensor to an ESP32 as follows:
 | SCL        | 22        | I2C clock line  |
 | XSHUT      | 19        | Optional reset  |
 
-> Ensure 5 V and ground rails are common between sensor and ESP32.
+![ESP32-C6 and VL53L1X Wiring Diagram](ESP32_VL53L1X_Wiring_Diagram.png)  
+ 
+
+> Ensure 5 V and ground rails are common between sensor and ESP32.  
+
 
 ## Prerequisites
 
