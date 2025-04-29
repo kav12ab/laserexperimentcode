@@ -11,6 +11,8 @@ LS2 9JT
 
 Arduino code and experimental setup for measuring distances using a VL53L1X laser time-of-flight sensor on an ESP32 board.
 
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE.md) <!-- Optional: You can create a LICENSE.md file -->
+
 ## Table of Contents
 
 - [About](#about)
