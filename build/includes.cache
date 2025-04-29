@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\kavee\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\kavee\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\variants\\esp32c6"
+  },
+  {
+    "Sourcefile": "C:\\Users\\kavee\\Desktop\\MECH3890\\VSCODE\\Experiments\\laser\\build\\sketch\\laser.ino.cpp",
+    "Include": "Adafruit_VL53L1X.h",
+    "Includepath": "C:\\Users\\kavee\\Documents\\Arduino\\libraries\\Adafruit_VL53L1X\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\kavee\\Desktop\\MECH3890\\VSCODE\\Experiments\\laser\\build\\sketch\\laser.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\kavee\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\kavee\\Desktop\\MECH3890\\VSCODE\\Experiments\\laser\\build\\sketch\\laser.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kavee\\Documents\\Arduino\\libraries\\Adafruit_VL53L1X\\src\\Adafruit_VL53L1X.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kavee\\Documents\\Arduino\\libraries\\Adafruit_VL53L1X\\src\\vl53l1x_class.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kavee\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
