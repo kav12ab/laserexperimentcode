@@ -25,7 +25,7 @@ Arduino code and experimental setup for measuring distances using a VL53L1X lase
 
 ## About
 
-This repository contains sketches and documentation for experiments with the VL53L1X laser time-of-flight (ToF) sensor on an ESP32. The code demonstrates how to initialize the sensor, perform range measurements up to 4 m, apply Six Sigma filtering for stability, and output timestamped distance readings over serial.
+This repository contains sketches and documentation for experiments with the VL53L1X laser time-of-flight (ToF) sensor on an ESP32. The code demonstrates how to initialize the sensor, perform range measurements and output timestamped distance readings over serial.
 
 Full source code and wiring diagrams are available at [laserexperimentcode on GitHub](https://github.com/kav12ab/laserexperimentcode).
 
