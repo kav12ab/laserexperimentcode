@@ -84,11 +84,11 @@ cd laserexperimentcode
 
 ```plaintext
 laserexperimentcode/
-├── docs/                     # Wiring diagrams and notes
-├── laser_experiment.ino      # Main Arduino sketch
-├── libraries/                # Additional Arduino libraries (if any)
-├── examples/                 # Example modifications and tests
-└── README.md                 # This file
+├── .vscode/                           # JSON files for VSCODE Arduino Configuration
+├── build/                             # Build logs, libraries and other files
+├── laser_experiment.ino               # Main Arduino sketch
+├── ESP32_VL53L1X_Wiring_Diagram.png   # Wiring Diagram
+└── README.md                          # This file
 ```
 
 ## License
